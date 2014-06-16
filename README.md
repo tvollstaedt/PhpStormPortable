@@ -8,3 +8,9 @@ This beta installer downloads the PhpStorm binaries from http://blog.jetbrains.c
 Installer: http://tvollstaedt.github.io/PhpstormPortable/PhpStormPortable_Development_Test_1_online.paf.exe
 
 To update PhpStorm, remove all the files of the `App\PhpStorm` directory and extract the contents of the relased .zip package into the empty folder.
+
+
+License
+=======
+
+While the source of this launcher/installer is released under MIT License, PhpStorm is a commercial product which is distributed under a special license. You can find a copy of that license under `App\PhpStorm\license` after installation.
